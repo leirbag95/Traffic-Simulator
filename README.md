@@ -17,11 +17,11 @@ This simulator is based on New York City traffic, in fact there are pedestrian, 
 You have few ways to try the program.
 - First one
 
-If you are on Windows download the .exe and launch it, else if you on Mac OS download the app into the folder MacApp/
+If you are on Windows download the **.exe** and launch it, else if you on Mac OS download the app into the folder **MacApp/**
 
 - Second One
 
-You can access to the simulator through a web site (which is a Web App).
+You can access to the simulator through a web site (which is a Web App). For starting the simulator clic on this link
 
 ## How does it work ?
 
