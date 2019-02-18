@@ -34,4 +34,8 @@ Actually, maps are generated from a JSON file. We made this simulator in order t
 
 ## Modeling a road
 
+## Assign a path to a each vehicle
+
+
+
 
