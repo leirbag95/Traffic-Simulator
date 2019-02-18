@@ -1,11 +1,20 @@
-# Traffic-Simulator
+<p align="right">
+  <a href="https://npmjs.org/package/deck.gl">
+    <img src="https://img.shields.io/npm/dm/deck.gl.svg?style=flat-square" alt="downloads" />
+  </a>
+</p>
+
+<h1 align="center">Traffic-Simulator | <a href="https://github.com/leirbag95/Traffic-Simulator/">WebApp</a></h1>
+
+<h5 align="center"> Traffic-Simulator, highly performant large-scale traffic visualization</h5>
+
+[![docs](http://i.imgur.com/mvfvgf0.jpg)](https://github.com/leirbag95/Traffic-Simulator/)
 
 #### Before starting 
 
 To consult the specifications in pdf format, you can clic here
 
-## Introduction
-
+<h1 align="center">Introduction</h1>
 This project is a Traffic-Simulator developped in case of studies project.
 
 We developed it with *Unity3D* in *C#*.
