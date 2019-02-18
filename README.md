@@ -14,4 +14,12 @@ This simulator is based on New York City traffic, in fact there are pedestrian, 
 
 ## How to try it ?
 
+You have few ways to try the program.
+- First one
+
+If you are on Windows download the .exe and launch it, else if you on Mac OS download the app into the folder MacApp/
+
+- Second One
+
+
 
