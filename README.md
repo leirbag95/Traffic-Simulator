@@ -21,6 +21,9 @@ We developed it with *Unity3D* in *C#*.
 
 This simulator is based on New York City traffic, in fact there are pedestrian, differents kind of cars like truck or city-dweller car. **There is not roundabout**, cars can not cross each other and pedestrian can not cross the street.
 
+For a better introduction you can watch this <a href="https://www.youtube.com/embed/MUQfKFzIOeU">video</a> which resume the Traffic-Simulator project.
+
+
 ## How to try it ?
 
 You have few ways to try the program.
