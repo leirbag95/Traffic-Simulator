@@ -1,2 +1,7 @@
 # Traffic-Simulator
-Traffic Simulator in C#
+
+## Before starting 
+
+To consult the specifications in pdf format, you can clic here
+
+
