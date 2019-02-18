@@ -21,5 +21,5 @@ If you are on Windows download the .exe and launch it, else if you on Mac OS dow
 
 - Second One
 
-
+You can access to the simulator through a web site (which is a Web App).
 
