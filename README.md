@@ -23,13 +23,19 @@ This simulator is based on New York City traffic, in fact there are pedestrian, 
 
 For a better introduction you can watch this <a href="https://www.youtube.com/embed/MUQfKFzIOeU">video</a> which resume the Traffic-Simulator project.
 
+## Download the project
 
+You can clone or download the project by clicking on the button "Clone or Download".
+Or you can get this command on terminal 
+```
+git clone https://github.com/leirbag95/Traffic-Simulator.git
+``` 
 ## How to try it ?
 
 You have few ways to try the program.
 - First one
 
-If you are on Windows download the **.exe** and launch it, else if you on Mac OS download the app into the folder **MacApp/**
+If you are on Windows download the **.exe** on the folder WindowsApp/ and launch it, else if you are a Mac OS user, download the app into the folder **MacApp/**
 
 - Second One
 
@@ -44,9 +50,9 @@ A traffic simulator will be randomly selected from the traffic simulator. In fac
 - Upload your own city
 Actually, maps are generated from a JSON file. We made this simulator in order to upload your own map. Everything is explained in the project or in the specification.
 
-## Modeling a road
+### Modeling a road
 
-## Assign a path to a each vehicle
+### Assign a path to a each vehicle
 
 
 
