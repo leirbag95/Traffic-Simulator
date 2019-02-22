@@ -12,7 +12,7 @@
 
 #### Before starting 
 
-To consult the specifications in pdf format, you can clic here
+Consult specifications in pdf format for more information.
 
 <h1 align="center">Introduction</h1>
 This project is a Traffic-Simulator developped in case of studies project.
