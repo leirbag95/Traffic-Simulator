@@ -1,0 +1,504 @@
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Boo.Lang.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/mscorlib.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/System.Core.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/System.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/System.Xml.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.Locator.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEditor.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityScript.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.Cecil.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.DataContract.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Mono.Security.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEditor.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/gabrielelfassi/Documents/Traffic Simulator/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/gabrielelfassi/Documents/Traffic Simulator/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/gabrielelfassi/Documents/Traffic Simulator/obj/Debug/Assembly-CSharp.dll
+/Users/gabrielelfassi/Documents/Traffic Simulator/obj/Debug/Assembly-CSharp.pdb
+/Users/gabrielelfassi/Documents/Traffic Simulator/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/gabrielelfassi/Documents/TrafficSimulator/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/gabrielelfassi/Documents/TrafficSimulator/obj/Debug/Assembly-CSharp.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/obj/Debug/Assembly-CSharp.pdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Boo.Lang.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/mscorlib.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/System.Core.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/System.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/System.Xml.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.Locator.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEditor.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityScript.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.Cecil.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.DataContract.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Mono.Security.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEditor.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/gabrielelfassi/Documents/TrafficSimulator/obj/Debug/Assembly-CSharp.csproj.CopyComplete
