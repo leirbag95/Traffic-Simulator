@@ -46,8 +46,11 @@ You can access to the simulator through a web site (which is a Web App). For sta
 ### Main Menu
 Once you have started the program, you will be in front of the main menu where you will have several choices:
 - Start a local traffic simulator
+
 A traffic simulator will be randomly selected from the traffic simulator. In fact, you have a dozen of maps which are provided with the project.
+
 - Upload your own city
+
 Actually, maps are generated from a JSON file. We made this simulator in order to upload your own map. Everything is explained in the project or in the specification.
 
 ### Modeling a road
