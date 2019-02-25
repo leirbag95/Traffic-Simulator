@@ -3,6 +3,12 @@
     <img src="https://img.shields.io/npm/dm/deck.gl.svg?style=flat-square" alt="downloads" />
   </a>
 </p>
+<p align="right">
+  <a href="http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/leirbag95/Traffic-Simulator/blob/master/LICENSE">
+    <img src="http://img.shields.io/badge/license-MIT-blue.svg" alt="downloads" />
+  </a>
+</p>
+
 
 <h1 align="center">Traffic-Simulator</h1>
 
