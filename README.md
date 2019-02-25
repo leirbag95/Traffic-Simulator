@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Traffic-Simulator | <a href="https://github.com/leirbag95/Traffic-Simulator/">Download it</a></h1>
+<h1 align="center">Traffic-Simulator</h1>
 
 <h5 align="center"> Traffic-Simulator, highly performant large-scale traffic visualization</h5>
 
