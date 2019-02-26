@@ -58,6 +58,35 @@ A traffic simulator will be randomly selected from a local database of document.
 
 Actually, maps are generated from a JSON file. We made this simulator in order to upload your own map. Everything is explained in the project or in the specification.
 
+Below you have an example of what looks like a city through a JSON file required
+
+``` JSON
+{
+  "name":"Pulv City",
+  "rows":17,
+  "cols":10,
+  "grid": [
+  	["", "", "", "", "", "", "", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "RL", "CNO", "CNE", "RL", "CNO", "CNE", "RL", "RLS",""],
+  	["", "LR", "CSO", "CSE", "LR", "CSO", "CSE", "LR", "LR",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "RL", "CNO", "CNE", "RL", "CNO", "CNE", "RLS", "",""],
+  	["", "LRS", "CSO", "CSE", "LR", "CSO", "CSE", "LR", "",""],
+  	["", "", "TB", "BT", "", "TB", "BT", "", "",""],
+  	["", "", "", "", "WP", "", "", "", "",""],
+  	["", "", "", "", "", "", "", "", "",""]
+  ]
+}
+```
+
 ### Modeling a road
 
 Road are modeling by a matrix of *GameObject*.
