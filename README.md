@@ -96,6 +96,8 @@ There are several types of GameObject :
 
 ---
 
+These kind of GameObject represent the direction of the road, in fact each *Road GameObject* has a peer of Node.
+
 1. **TB** : TOP to the BOTTOM
 2. **BT** : BOTTOM to the TOP
 3. **RL** : RIGHT to the LEFT
