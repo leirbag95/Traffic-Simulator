@@ -63,7 +63,7 @@ Actually, maps are generated from a JSON file. We made this simulator in order t
 Road are modeling by a matrix of *GameObject*.
 There are several types of GameObject : 
 
-GameObject representing the road
+###### GameObject representing the road
 
 ---
 
