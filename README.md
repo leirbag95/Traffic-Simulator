@@ -60,6 +60,23 @@ Actually, maps are generated from a JSON file. We made this simulator in order t
 
 ### Modeling a road
 
+Road are modeling by a matrix of *GameObject*.
+There are several types of GameObject : 
+
+- GameObject representing the road
+
+---
+
+1. **TB** : TOP to the BOTTOM
+2. **BT** : BOTTOM to the TOP
+3. **RL** : RIGHT to the LEFT
+4. **LR** : LEFT to the RIGHT
+5. **CNO** : CENTER NORTH WEST
+6. **CNE** : CENTER NORTH EAST
+7. **CSO** : CENTER SUD WEST
+8. **CSE** : CENTER SUD EAST
+
+
 ### Assign a path to a each vehicle
 
 
