@@ -56,7 +56,7 @@ A traffic simulator will be randomly selected from a local database of document.
 
 - Upload your own city
 
-Actually, maps are generated from a JSON file. We made this simulator in order to upload your own map. Everything is explained in the project or in the specification.
+Actually, maps are generated from a JSON file. We made this simulator in order to upload your own map. Everything are explained in the specification.
 
 Below you have an example of what looks like a city through a JSON file required
 
