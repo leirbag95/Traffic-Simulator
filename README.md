@@ -44,9 +44,6 @@ You can access to the simulator through a web site (which is a Web App). For sta
 
 ## How does it work ?
 
-### Main Menu
-
-![2ubxoz](https://user-images.githubusercontent.com/17054452/53235962-668b2c00-3693-11e9-8075-33e77c220972.gif)
 
 
 Once you have started the program, you will be in front of the main menu where you will have several choices:
@@ -106,10 +103,4 @@ These kind of GameObject represent the direction of the road, in fact each *Road
 6. **CNE** : CENTER NORTH EAST
 7. **CSO** : CENTER SUD WEST
 8. **CSE** : CENTER SUD EAST
-
-
-### Assign a path to a each vehicle
-
-
-
 
