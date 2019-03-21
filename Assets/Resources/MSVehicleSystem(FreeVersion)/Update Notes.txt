@@ -1,0 +1,59 @@
+Version 1.1.0
+- ABS brake system implemented
+- Camera system has been updated to have a smoother movement.
+- Controls became easier to access through the Scene Controller.
+- Code performance enhancements.
+- Now each vehicle can have multiple doors
+
+
+Version 1.1.6
+- New settings to stabilize vehicle skidding.
+- Documentation updates.
+
+
+Version 1.3.0
+- Bugs corrected for vehicle scale.
+- Bugs corrected in relation to the vehicle doors.
+- Camera settings now have separate classes for each type of camera.
+
+
+Version 1.3.2
+- Bugs fixed in camera controller.
+- Bugs fixed in automatic gears.
+- Button added to change cameras in mobile version.
+- Buttons has been added for Mobile games.
+- New way to process center of mass
+
+
+Version 1.4.2
+- Fixed problems with aerodynamics
+- Bugs fixed with skid sounds.
+- Bugs corrected with the vehicle controller.
+
+
+Version 1.5.0
+- It is now possible to set a maximum length for the 'skidmarks'
+- Extremely significant improvements were made in relation to 'GC.Collect' related to 'skidMarks' and tag comparisons.
+
+
+Version 1.6.0
+- Several bugs have been fixed.
+- Extremely significant improvements were made in relation to 'GC.Collect' related to 'skidMarksSounds' and tag comparisons.
+
+
+Version 1.7.0
+- Bug fixed in 'skidMarks', now the wheel generates the track according to its "-transform.up" instead of "-Vector3.up"
+- Bug fixed in relation to orbital camera. It now starts with the rotation and distances correctly set relative to the vehicle.
+
+
+Version 2.0.0
+- New scenery
+- All the scenes were redone.
+- The entire GUI system has been replaced by the UI.
+- All prefabs have been redone, improving the default settings.
+- You can now set the volume of impact sounds.
+- Bug fixed in 'StabilizeAirRotation' void.
+- The gear shift system has been improved.
+- The sound of the gear change now obeys the time of the exchange.
+
+

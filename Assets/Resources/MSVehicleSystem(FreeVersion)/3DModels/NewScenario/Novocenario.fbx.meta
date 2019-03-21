@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: ac1eea795233d3f4b8f40d531cb09a50
+timeCreated: 1524193321
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ciment
+    100002: color_1
+    100004: color_2
+    100006: color_3
+    100008: color_4
+    100010: color_5
+    100012: color_6
+    100014: door
+    100016: ground_1
+    100018: ground_2
+    100020: ground_3
+    100022: ground_4
+    100024: ground_5
+    100026: ground_6
+    100028: logo
+    100030: metal_1
+    100032: metal_2
+    100034: //RootNode
+    100036: roof
+    100038: sidewalk
+    100040: wall_1
+    100042: wall_2
+    100044: wall_3
+    100046: wall_4
+    100048: wall_5
+    100050: wall_6
+    100052: wall_7
+    100054: wood_1
+    100056: wood_2
+    400000: ciment
+    400002: color_1
+    400004: color_2
+    400006: color_3
+    400008: color_4
+    400010: color_5
+    400012: color_6
+    400014: door
+    400016: ground_1
+    400018: ground_2
+    400020: ground_3
+    400022: ground_4
+    400024: ground_5
+    400026: ground_6
+    400028: logo
+    400030: metal_1
+    400032: metal_2
+    400034: //RootNode
+    400036: roof
+    400038: sidewalk
+    400040: wall_1
+    400042: wall_2
+    400044: wall_3
+    400046: wall_4
+    400048: wall_5
+    400050: wall_6
+    400052: wall_7
+    400054: wood_1
+    400056: wood_2
+    2300000: ciment
+    2300002: color_1
+    2300004: color_2
+    2300006: color_3
+    2300008: color_4
+    2300010: color_5
+    2300012: color_6
+    2300014: door
+    2300016: ground_1
+    2300018: ground_2
+    2300020: ground_3
+    2300022: ground_4
+    2300024: ground_5
+    2300026: ground_6
+    2300028: logo
+    2300030: metal_1
+    2300032: metal_2
+    2300034: roof
+    2300036: sidewalk
+    2300038: wall_1
+    2300040: wall_2
+    2300042: wall_3
+    2300044: wall_4
+    2300046: wall_5
+    2300048: wall_6
+    2300050: wall_7
+    2300052: wood_1
+    2300054: wood_2
+    3300000: ciment
+    3300002: color_1
+    3300004: color_2
+    3300006: color_3
+    3300008: color_4
+    3300010: color_5
+    3300012: color_6
+    3300014: door
+    3300016: ground_1
+    3300018: ground_2
+    3300020: ground_3
+    3300022: ground_4
+    3300024: ground_5
+    3300026: ground_6
+    3300028: logo
+    3300030: metal_1
+    3300032: metal_2
+    3300034: roof
+    3300036: sidewalk
+    3300038: wall_1
+    3300040: wall_2
+    3300042: wall_3
+    3300044: wall_4
+    3300046: wall_5
+    3300048: wall_6
+    3300050: wall_7
+    3300052: wood_1
+    3300054: wood_2
+    4300000: ground_2
+    4300002: wall_6
+    4300004: color_5
+    4300006: color_6
+    4300008: wall_5
+    4300010: wall_4
+    4300012: sidewalk
+    4300014: ground_3
+    4300016: ground_4
+    4300018: ground_6
+    4300020: door
+    4300022: ground_1
+    4300024: wood_2
+    4300026: roof
+    4300028: wall_1
+    4300030: color_3
+    4300032: wood_1
+    4300034: color_2
+    4300036: ground_5
+    4300038: metal_2
+    4300040: color_1
+    4300042: metal_1
+    4300044: wall_7
+    4300046: logo
+    4300048: color_4
+    4300050: wall_2
+    4300052: wall_3
+    4300054: ciment
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

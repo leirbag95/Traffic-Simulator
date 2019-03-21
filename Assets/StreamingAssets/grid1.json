@@ -1,0 +1,37 @@
+{
+  "name":"Pulv City",
+  "rows":25,
+  "cols":20,
+  "grid": [
+  	["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RL","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RLS","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RLS","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RL","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RLS","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RLS","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","GR","GR","GR","GR","GR","GR","GR","GR","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","11","12","TB","BT","15","16","TB","BT","19"],
+    ["0","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RL","RL","RL","CNO","CNE","RL","RL","CNO","18","19"],
+    ["0","LRS","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","LR","LR","CSO","CSE","LR","LR","CSO","18","19"],
+    ["0","1","2","TB","BT","5","6","7","TB","BT","10","11","12","TB","BT","15","16","TB","18","19"],
+    ["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19"]
+  ]
+}
+
+
+
+
+
