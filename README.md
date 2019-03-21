@@ -36,7 +36,7 @@ git clone https://github.com/leirbag95/Traffic-Simulator.git
 
  - Clone the project and launch it with Unity, then Build & Run the project with the OS you want.
  
- - Download the project for Mac OS through this link https://www.dropbox.com/s/oqb06ngq1tme0n0/Buildv2.app.zip?dl=0
+ - Download the project for Mac OS through this  <a href="https://www.dropbox.com/s/oqb06ngq1tme0n0/Buildv2.app.zip?dl=0">link</a> 
 
 ## How does it work ?
 
