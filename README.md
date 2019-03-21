@@ -34,14 +34,7 @@ git clone https://github.com/leirbag95/Traffic-Simulator.git
 ``` 
 ## How to try it ?
 
-You have few ways to try the program.
-- First one
-
-If you are on Windows download the **.exe** on the folder WindowsApp/ and launch it, else if you are a Mac OS user, download the app into the folder **MacApp/**
-
-- Second One
-
-You can access to the simulator through a web site (which is a Web App). For starting the simulator clic on this link
+ Clone the project and launch it with Unity, then Build & Run the project with the OS you want.
 
 ## How does it work ?
 
