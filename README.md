@@ -13,9 +13,6 @@
 
 #### Before starting 
 
-Consult [specification](https://github.com/leirbag95/Traffic-Simulator/files/2982107/Rapport_PTS_IBO_104_gabriel_elfassi.pdf)
- in pdf format for more information.
-
 <h1 align="center">Introduction</h1>
 This project is a Traffic-Simulator developped in case of studies project.
 
